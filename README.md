@@ -1,16 +1,16 @@
 # Projeto FastAPI para o bootcamp da DIO
-projeto_fastapi_dio/
-├── projeto_fastapi_dio/
-│   ├── __init__.py
-│   ├── controller.py
-│   ├── models.py
-│   ├── exceptions.py
-│   └── utils.py
-├── tests/
-│   ├── __init__.py
-│   └── test_controller.py
-├── pyproject.toml
-└── README.md
+projeto_fastapi_dio/<br>
+├── projeto_fastapi_dio/<br>
+│   ├── __init__.py<br>
+│   ├── controller.py<br>
+│   ├── models.py<br>
+│   ├── exceptions.py<br>
+│   └── utils.py<br>
+├── tests/<br>
+│   ├── __init__.py<br>
+│   └── test_controller.py<br>
+├── pyproject.toml<br>
+└── README.md<br>
 
 # Objetivo
 Este é um projeto de exemplo para criar e atualizar produtos com tratamento de exceções.
