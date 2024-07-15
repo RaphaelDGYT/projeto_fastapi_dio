@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "my_project"
+version = "0.1.0"
+description = "Projeto de exemplo para criar e atualizar produtos com tratamento de exceções"
+authors = ["Seu Nome <seu.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
